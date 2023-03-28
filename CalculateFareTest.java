@@ -3,7 +3,7 @@ package com.cabinvoicegenerator;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
-import org.junit.Test
+import org.junit.Test;
 public class CalculateFareTest {
     CalculateFare calculateFare = new CalculateFare();
     @Before
